@@ -80,6 +80,10 @@
 - [KR 23](http://www.kr23.theliquorcompany.de/)
 - [Meermaid Rum](http://www.meermaid-rum.de/)
 
+## Slack Channel
+
+There is a slack chat in case you want to stay connected.
+- [AwesomeCities Slack](https://awesomecities-slackin.herokuapp.com)
 
 ## License
 
