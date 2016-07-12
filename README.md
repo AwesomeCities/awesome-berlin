@@ -19,7 +19,7 @@
 - [Tommis Burger Joint](https://goo.gl/maps/V3cmi6yHTkv)
 - [Yellow Burgermanufaktur](https://goo.gl/maps/6TLgnnYfEL52)
 - [Umami Prenzlauer Berg](https://goo.gl/maps/tFQ4vGhVAeP2)
-- [Chi mag](No link)
+- [Chimag Korean BBQ](https://goo.gl/maps/4ZQj6Ere39v)
 
 ## Beverages
 
