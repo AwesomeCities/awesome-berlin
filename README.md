@@ -17,6 +17,7 @@
 - [Fast Rabbit](https://goo.gl/maps/ta9uXebhygx)
 - [häppies](https://goo.gl/maps/VhXz4Ent3q32)
 - [Joris Berlin](https://goo.gl/maps/GihtTwQWwHS2)
+- [La Pausa Torstraße] (https://goo.gl/maps/W76My2AomSs)
 - [Rosenburger] (https://goo.gl/maps/VSQjFHuYhuj)
 - [Tommis Burger Joint](https://goo.gl/maps/V3cmi6yHTkv)
 - [Yellow Burgermanufaktur](https://goo.gl/maps/6TLgnnYfEL52)
