@@ -11,11 +11,13 @@
 
 ## Lunch
 
+- [BUN BAO • Finest Asian Burgers] (https://goo.gl/maps/7FmxRXPBrwC2)
 - [Chen Che](https://goo.gl/maps/u3B6eFPNGLq)
 - [Dudu](https://goo.gl/maps/CRqvDrGoBJM2)
 - [Fast Rabbit](https://goo.gl/maps/ta9uXebhygx)
 - [häppies](https://goo.gl/maps/VhXz4Ent3q32)
 - [Joris Berlin](https://goo.gl/maps/GihtTwQWwHS2)
+- [Rosenburger] (https://goo.gl/maps/VSQjFHuYhuj)
 - [Tommis Burger Joint](https://goo.gl/maps/V3cmi6yHTkv)
 - [Yellow Burgermanufaktur](https://goo.gl/maps/6TLgnnYfEL52)
 - [Umami Prenzlauer Berg](https://goo.gl/maps/tFQ4vGhVAeP2)
@@ -55,6 +57,7 @@
 ## Nightlife
 
 - [Bar Becketts Kopf](https://goo.gl/maps/nELrHZjuT6r)
+- [Billiard House Friedrichshain] (https://goo.gl/maps/8ttaMrHX9hF2)
 - [Zum Starken August](https://goo.gl/maps/DgpZWxXipzn)
 
 ## Shops
@@ -64,7 +67,10 @@
 
 ## Thrills
 
+- [EXIT - Live Escape Berlin] (https://goo.gl/maps/yg6xgNQ3QsJ2)
+- [Mission Accepted - Live Escape Berlin] (https://goo.gl/maps/VKUKcEcnRWK2)
 - [Panorama Punkt](https://goo.gl/maps/RtAwtAEERK22)
+- [THE ROOM - Live Escape Game] (https://goo.gl/maps/5TEwbqXQ6gQ2)
 - [Waldhochseilgarten Jungfernheide](https://goo.gl/maps/N6FMt8hjYzC2)
 
 ## Relaxing
@@ -80,6 +86,12 @@
 - [Glam Cola](http://www.glamcola.de/)
 - [KR 23](http://www.kr23.theliquorcompany.de/)
 - [Meermaid Rum](http://www.meermaid-rum.de/)
+
+## Locations
+
+- [Müggelsee] (https://goo.gl/maps/XirmQKnVXx52)
+- [Strandbad Tegler See] (https://goo.gl/maps/Ubx5Vg79tvm)
+- [Teufelsberg] (https://goo.gl/maps/98qBFiyMGm62)
 
 ## Slack Channel
 
