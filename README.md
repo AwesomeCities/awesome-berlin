@@ -50,6 +50,7 @@
 
 - [Birra Italian Craft Beer](https://goo.gl/maps/Bpe6ENHNP9H2)
 - [HERMAN Belgian Bar](https://goo.gl/maps/RH9WHa1Ltw42)
+- [Meltdown eSports Bar](https://goo.gl/maps/WSdd3vF5hWy)
 
 ## Nightlife
 
