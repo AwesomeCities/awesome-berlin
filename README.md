@@ -97,7 +97,7 @@
 ## Slack Channel
 
 There is a slack chat in case you want to stay connected.
-- [AwesomeCities Slack](https://awesomecities-slackin.herokuapp.com)
+- [AwesomeCities Slack](http://slack.awesomecities.org)
 
 ## License
 
