@@ -94,6 +94,12 @@
 - [Strandbad Tegler See](https://goo.gl/maps/Ubx5Vg79tvm)
 - [Teufelsberg](https://goo.gl/maps/98qBFiyMGm62)
 
+## Contributing
+
+You're very welcome to participate in this list! Please make sure you read the [contribution guidelines](Contribution.md) and [code of conduct](code-of-conduct.md) before you submit a pull request.
+
+Also be sure that not to add entries that are mediocre or only good. We want awesome!
+
 ## Slack Channel
 
 There is a slack chat in case you want to stay connected.
