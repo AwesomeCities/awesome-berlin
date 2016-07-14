@@ -26,8 +26,8 @@
 
 ## Beverages
 
-- [Getränkefeinkost Berlin](https://goo.gl/maps/iuh2MQSZZYQ2)
-- [Meta Mate Bar](https://goo.gl/maps/7duaRBjNGyD2)
+- [Getränkefeinkost Berlin](https://goo.gl/maps/iuh2MQSZZYQ2) - If you need a variarity of awesome beers and sodas this is the place to go. I go there regulary. There is always something new to choose from. The owner curates the beverages, so that there is no plastic, no cans. Glass only. And no evil mega corps.
+- [Meta Mate Bar](https://goo.gl/maps/7duaRBjNGyD2) - If you know Berlin, you know we drink a lot of mate. If you like mate you have to go there. You'll find a wide range of mate products. For fresh made mate the trick is to use slowly dried mate. If you get mate from a regular supermarked then it will be dried quicky and the flavors and soul are gone. You'll find dried mate, mate sodas, mate chocolate, mate beer, mate schnaps! The owners are very lovely people.
 
 ## Restaurants
 
