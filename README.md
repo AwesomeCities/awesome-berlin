@@ -31,10 +31,10 @@
 
 ## Restaurants
 
-- [Omoni](https://goo.gl/maps/LGtL7fio6x12)
-- [Sasaya](https://goo.gl/maps/VfnfnDZrruz)
-- [Standard Serious Pizza](https://goo.gl/maps/ZSd5GzitNgK2)
-- [Lecker Song Dim Sum Spezialitäten aus Peking](https://goo.gl/maps/XasKmRPKDaQ2)
+- [Omoni](https://goo.gl/maps/LGtL7fio6x12) - One of the best sushi places in Prenzlauer Berg. Very warm and welcoming atmosphere. Super tasty sushi. They don't have fancy stuff. They just do it right.
+- [Sasaya](https://goo.gl/maps/VfnfnDZrruz) - Also in Prenzlauer Berg. I remember it to be super good. They open for lunch and for dinner. It's closed in between. You should make a reservation.
+- [Standard Serious Pizza](https://goo.gl/maps/ZSd5GzitNgK2) - Neapolitan pizza at its best. A bit pricy but it's worth giving it a try. The dough is very soft and the ingredients are 1st class.
+- [Lecker Song Dim Sum Spezialitäten aus Peking](https://goo.gl/maps/XasKmRPKDaQ2) - A very small place that serves home made chinese dumplings. There are a few vegan and a few options with meat.
 
 ## Food Markets
 
