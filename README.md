@@ -35,7 +35,6 @@
 - [Sasaya](https://goo.gl/maps/VfnfnDZrruz)
 - [Standard Serious Pizza](https://goo.gl/maps/ZSd5GzitNgK2)
 - [Lecker Song Dim Sum Spezialitäten aus Peking](https://goo.gl/maps/XasKmRPKDaQ2)
-- [Ushido-Japanese BBQ](https://goo.gl/maps/BGVwkS2jmWR2)
 
 ## Food Markets
 
