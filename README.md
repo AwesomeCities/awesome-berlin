@@ -99,10 +99,10 @@ You're very welcome to participate in this list! Please make sure you read the [
 
 Also be sure that not to add entries that are mediocre or only good. We want awesome!
 
-## Slack Channel
+## Discord Channel
 
-There is a slack chat in case you want to stay connected.
-- [AwesomeCities Slack](http://slack.awesomecities.org)
+There is a discord chat in case you want to stay connected.
+- [AwesomeCities Discord](https://discord.gg/VH9VCXF)
 
 ## License
 
